@@ -1,6 +1,8 @@
 # Newscatcher
 **Programmatically collect normalized news from (almost) any website.**
 
+***Not just News, but the "sorted news"***
+
 Filter by **topic**, **country**, or **language**.
 
 Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not need anything from us or from anyone else to get the software going, it just works out of the box.
